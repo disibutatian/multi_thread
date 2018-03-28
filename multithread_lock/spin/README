@@ -1,0 +1,4 @@
+* 自旋锁的测试使用,明确使用场景
+* https://blog.csdn.net/q1007729991/article/details/61919942
+* [自旋锁与互斥锁的对比、手工实现自旋锁](https://blog.csdn.net/freeelinux/article/details/53695111)
+* 自旋锁是一直处于忙等待，一直消耗cpu

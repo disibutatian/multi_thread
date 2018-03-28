@@ -1,0 +1,3 @@
+* gcc mutex.c -lpthread
+* 验证mutex使用,资源操作的互斥
+* mutex 抢占失败会进入休眠
